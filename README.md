@@ -1,8 +1,16 @@
 # 📝 About Me:
-Hi there! 👋<br><br>I'm Ricardo Affonso, a passionate lerner and a software developer. At the moment, studying Computer Engineering at UTFPR (Federal University of Technology - Paraná)<br><br>
+Hi there! 
+
+👋<br><br>I'm Ricardo Affonso, a passionate lerner and a software developer. At the moment, studying Computer Engineering at UTFPR (Federal University of Technology - Paraná)<br><br>
+
 🌱 **I'm currently learning:**<br>- Java and Backend-Development <br>- Python for different purposes<br><br>
-💼 **Experience:**<br>- Academic Tutoring of Data Structures and Algorithms <br>- Software Developer at FKN <br> <br>
+
+💼 **Experience:**<br>- Academic Tutoring of Data Structures and Algorithms 
+                  <br>- Intern Software Developer at FKN 
+                  <br> <br>
+                  
 👨‍💻 **Projects:**<br>- Always adding to my Repositories, go check on them!<br><br>
+                
 📫 **How to reach me:**<br>- Email: ricardoraffonso@hotmail.com<br><br>
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat! 😊
 
