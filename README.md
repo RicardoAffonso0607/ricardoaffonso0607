@@ -1,7 +1,5 @@
 # 📝 About Me:
-Hi there! 
-
-👋<br><br>I'm Ricardo Affonso, a passionate lerner and a software developer. At the moment, studying Computer Engineering at UTFPR (Federal University of Technology - Paraná)<br><br>
+Hi there! 👋<br><br>I'm Ricardo Affonso, a passionate lerner and a software developer. At the moment, studying Computer Engineering at UTFPR (Federal University of Technology - Paraná)<br><br>
 
 🌱 **I'm currently learning:**<br>- Java and Backend-Development <br>- Python for different purposes<br><br>
 
