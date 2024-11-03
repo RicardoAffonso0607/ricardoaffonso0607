@@ -7,22 +7,19 @@ Hi there! 👋<br><br>I'm Ricardo Affonso, a passionate lerner and a software de
                   <br>- Intern Software Developer at FKN 
                   <br> <br>
                   
-👨‍💻 **Projects:**<br>- Always adding to my Repositories, go check on them!<br><br>
+👨‍💻 **Main Projects:**<br>- Java Spring Boot API
+                     <br>- Game made in C++
+                     <br>- Collision simulator using Python
+                     <br><br>
                 
 📫 **How to reach me:**<br>- Email: ricardoraffonso@hotmail.com<br><br>
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat! 😊
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-affonso0607) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ricardo-affonso0607) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%2300599C.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%2300599C.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%2300599C.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-%2300599C.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cpp,c,python,js,php)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RicardoAffonso0607&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
