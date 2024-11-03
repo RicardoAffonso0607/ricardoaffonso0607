@@ -7,7 +7,7 @@ Hi there! 👋<br><br>I'm Ricardo Affonso, a passionate lerner and a software de
                   <br>- Intern Software Developer at FKN 
                   <br> <br>
                   
-👨‍💻 **Main Projects:**<br>- Java Spring Boot API
+👨‍💻 **Main Projects:**<br>- Java Spring Boot RESTful API
                      <br>- Game made in C++
                      <br>- Collision simulator using Python
                      <br><br>
@@ -15,15 +15,18 @@ Hi there! 👋<br><br>I'm Ricardo Affonso, a passionate lerner and a software de
 📫 **How to reach me:**<br>- Email: ricardoraffonso@hotmail.com<br><br>
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat! 😊
 
-## 🌐 Socials:
+🌐 Socials: <br><br>
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ricardo-affonso0607) 
 
-# 💻 Tech Stack:
+🛠️ Programming Languages: <br><br>
 [![My Skills](https://skillicons.dev/icons?i=java,spring,cpp,c,python,js,php)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RicardoAffonso0607&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RicardoAffonso0607&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAffonso0607&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+🐧 Operating Systems: <br><br>
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💻 Other Technologies: <br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+📊 GitHub Stats: <br><br>
+![](https://github-readme-stats.vercel.app/api?username=RicardoAffonso0607&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) </br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAffonso0607&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
