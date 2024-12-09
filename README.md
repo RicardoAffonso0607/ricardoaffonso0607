@@ -1,7 +1,7 @@
 # 📝 About Me:
 Hi there! 👋<br><br>I'm Ricardo Affonso, a passionate lerner and a software developer. At the moment, studying Computer Engineering at UTFPR (Federal University of Technology - Paraná)<br><br>
 
-🌱 **I'm currently learning:**<br>- Java and Backend-Development <br>- Python for different purposes<br><br>
+🌱 **I'm currently learning:**<br>- Machine Learning and AI <br>- Python for different purposes<br><br>
 
 💼 **Experience:**<br>- Academic Tutoring of Data Structures and Algorithms 
                   <br>- Intern Software Developer at FKN 
@@ -19,13 +19,16 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ricardo-affonso0607) 
 
 🛠️ Programming Languages: <br><br>
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cpp,c,python,js,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,mysql,postgres)](https://skillicons.dev)
+
+🧩 Frameworks:  <br><br>
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,spring)](https://skillicons.dev)
 
 🐧 Operating Systems: <br><br>
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 💻 Other Technologies: <br><br>
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,ros,postman)](https://skillicons.dev)
 
 📊 GitHub Stats: <br><br>
 ![](https://github-readme-stats.vercel.app/api?username=RicardoAffonso0607&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) </br>
